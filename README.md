@@ -3,5 +3,5 @@ Task Allocation With Network Flow and Bipartite Graph
 
 Algoritmos Utilizados:
   Ford-Fulkerson
-      &
+      e
    Edmond-Karp
